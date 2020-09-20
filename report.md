@@ -12,7 +12,7 @@
 
 **Баг-репорт**
 
-https://github.com/KhazovaLyubov/Zadacha2.2Precision/issues/1
+[Меньшее итоговое значение при суммировании чисел в приложении Precision](https://github.com/KhazovaLyubov/Zadacha2.2Precision/issues/1)
 
 
 **Общие рекомендации**
